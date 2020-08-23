@@ -1,3 +1,5 @@
+## It is a simple REST API for creating, updating, deleting and querying users data from MySQL databsse using typeORM, build with NestJS (A progressive Node.js framework for building efficient, reliable and scalable server-side applications).
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
